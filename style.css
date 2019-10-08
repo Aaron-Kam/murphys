@@ -1,0 +1,38 @@
+
+.menuimage {
+  min-height: 43px;
+  min-widows: 130px;
+}
+.homepage {
+  font-size: 20px;
+  height: 75px;
+  font-family: sans-serif;
+  color: white;
+}
+
+.mainbackground {
+  padding-top: 300px;
+  padding-bottom: 200px;
+  margin-bottom: 500px;
+}
+.homepage > p {
+  padding-top: 30px;
+}
+
+
+.footer {
+  height: 431px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #004030;
+}
+.footer a {
+  color: white;
+}
+
+.footer > item{
+  color: white;
+}
+.ui.relaxed.list .item {
+  color: white;
+}
